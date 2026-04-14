@@ -1,0 +1,10 @@
+com\agenda\ui\MainFrame$2.class
+com\agenda\ui\MainFrame.class
+com\agenda\util\DatabaseUtil.class
+com\agenda\ui\MainFrame$3.class
+com\agenda\ui\ContatoTableModel.class
+com\agenda\model\Contato.class
+com\agenda\ui\ContatoDialog.class
+com\agenda\ui\MainFrame$1.class
+com\agenda\dao\ContatoDAO.class
+com\agenda\Main.class
